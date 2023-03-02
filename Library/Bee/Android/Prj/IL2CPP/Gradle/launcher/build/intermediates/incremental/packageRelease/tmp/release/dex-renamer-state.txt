@@ -1,0 +1,4 @@
+#Sat Feb 18 21:25:20 EET 2023
+base.0=C\:\\Users\\Mehmet Akif\\GooglePlayMaybe\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
